@@ -1,6 +1,6 @@
 # Quantara - Custom Android OS
 
-![Quantara Logo](https://github.com/QuantungDev/Quantara/blob/main/quantara_logo.svg) *(optional)*
+![Quantara Logo](https://github.com/QuantungDev/Quantara/blob/main/quantara_logo.svg)
 
 ## Overview
 Quantara is a custom Android Operating System designed to provide a streamlined, performance-optimized, and user-friendly experience. Built from the ground up, Quantara aims to deliver a clean interface, enhanced privacy features, and customization options tailored to modern device needs.
@@ -8,7 +8,7 @@ Quantara is a custom Android Operating System designed to provide a streamlined,
 ## Features
 - **Optimized Performance:** Lightweight build for smooth operation on various devices.
 - **Enhanced Privacy:** Built-in privacy controls and security enhancements.
-- **Custom UI:** Unique theme and layout designed for intuitive navigation.
+- **Customizabme UI:** Easy making own unique themes and layouts designed for your all you need.
 - **Pre-installed Apps:** Essential apps with options for customization.
 - **Regular Updates:** Ongoing development for bug fixes and feature enhancements.
 
