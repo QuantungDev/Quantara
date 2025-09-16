@@ -22,4 +22,4 @@ Quantara is a custom Android Operating System designed to provide a streamlined,
 ### Building from Source
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/quantara.git
+git clone https://github.com/QuantungDev/quantara.git
